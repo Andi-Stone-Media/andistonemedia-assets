@@ -1,0 +1,26 @@
+# OS noise
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor noise
+.vscode/
+.idea/
+*.swp
+*~
+
+# Source files that should NOT live in this public repo.
+# If you need to keep an editable source, put it in
+# andistonemedia-brand (private) or wherever you author.
+*.psd
+*.ai
+*.sketch
+*.fig
+*.afdesign
+*.afphoto
+*.xd
+
+# Local backup conventions
+*-bak.*
+*-old.*
+*-archive.*
